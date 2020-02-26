@@ -1,16 +1,29 @@
 ---
-title: Project Title 1
-subtitle: Optional Project Subtitle
+title: Orca Laut
+subtitle: Mentawai - Fixed Schedule 10d/11n - Group and single bookings
 date: '2019-05-10'
-thumb_img_path: images/1_thumb.jpg
-content_img_path: images/1.jpg
+thumb_img_path: /images/orca-laut-surf-charter-mentawai-david-burden-photo-14.jpg
+content_img_path: /images/orca-laut-surf-charter-mentawai-david-burden-photo-17.jpg
 template: project
 ---
+The Orca Laut has a steel hull and deck with a Detroit 671 Diesel engine. With 3 airconditioned cabins and 8 berths, it can accommodate up to 8 surfers for an unforgettable surf trip around the Mentawai Islands. All the necessary safety equipment is on board to guarantee a safe trip.
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+The team consists of locals and westerners with an unrivalled experience and they make sure you can enjoy a worry-free and unforgettable surf charter trip in Mentawai Sumatra, Indonesia. The trip is all-inclusive and they take care of you from your arrival at Padang Airport until you take your flight back home.
 
->"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+In between surf sessions you can relax on the sundeck of the boat or in the airconditioned living area with an entertainment corner. There is equipment on board to enjoy some snorkelling and fishing.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+The trips are 11 nights / 10 days all-included, following a fixed schedule from February to October. You can book with a group and they also take single bookings to fill up the boat. Ask for the specials and bodyboard trips with ex legend boogers Garth Mcgegror n Adam Wingnut Smith.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+### INCLUDED:
+
+– Transfers to and from Padang Airport to the boat ( fly anytime in and out on the date of your charter)\
+– daily breakfast, lunch and dinner\
+– snacks \
+– 5 Bintang beers per guest per day, soft drinks, mineral water
+– use of all amenities and equipment ( fishing, snorkelling, pay as you go internet,… )
+– use of tin boats (60 hp) and 10hp for surfing and fishing
+
+### EXTRAS on request at fee:
+
+– more beers, wine, spirits – massage
+…
