@@ -8,7 +8,7 @@ template: page
 ---
 ### **Privacy Policy of LTL Surf Charters**
 
-LTL – LIVE THE LIFE CC operates the https://surfcharters.livethelife.tv website, which provides Personalised Charter Booking Assistance to its website visitors.
+LTL – LIVE THE LIFE CC operates the https://ltlsurfcharters.com website, which provides Personalised Charter Booking Assistance to its website visitors.
 
 This page is used to inform website visitors regarding our policies for the collection, use, and disclosure of Personal Information.
 
