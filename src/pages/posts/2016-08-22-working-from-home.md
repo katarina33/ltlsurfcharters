@@ -4,9 +4,11 @@ date: 2020-02-19T23:00:00.000Z
 thumb_img_path: /images/empty-wave.jpg
 content_img_path: ''
 excerpt: >-
-  Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
-  commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
-  aenean vel elit scelerisque mauris pellentesque.
+  The Maldives has become a real surfers paradise and very popular with beginner
+  and experienced surfers. There is a wide variety of options, which can be
+  overwhelming. We can divide The Maldives into 4 main areas: Northern Atolls,
+  Male Atolls, Central Atolls and Southern Atolls. Each region is different in
+  many ways.
 template: post
 ---
 LTL Surf Charters has created this Maldives Surf Charter Guide for you. We explain you the setup of the Atolls. What is the best time to surf where? And what are the differences between the Atoll areas.
