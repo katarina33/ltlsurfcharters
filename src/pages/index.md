@@ -43,10 +43,9 @@ sections:
       - content: >-
           LTL Surf Charters plants trees to offset your carbon footprint. We
           plant 10 trees per single surfer booking and 100 if you book a private
-          charter through LTL Surf Charters. We send you the tree certificate
-          after your trip.
-        title: We plant Trees for you
-    subtitle: The best surfcharter options
+          charter. We send you the tree certificate after your trip.
+        title: Trees Planted for each booking
+    subtitle: ''
     title: What We Offer
     type: servicesblock
   - component: TestimonialsBlock
