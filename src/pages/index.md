@@ -50,19 +50,24 @@ sections:
     type: servicesblock
   - component: TestimonialsBlock
     section_id: testimonials
-    subtitle: An optional subtitle of the section
+    subtitle: We go the extra mile...
     testimonialslist:
-      - author: John Doe
-        avatar: images/john_doe.jpg
+      - author: 'Eduardo, Spain'
+        avatar: ''
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/jane_roe.jpg
+          “Everything has been great. The crew was better than I expected, and
+          the surf charter was very comfortable. I’m very grateful for you and
+          your service. It was an excellent treat !! I hope to come again and i
+          will let you guide me ! Thanks a lot ! All the best !”
+      - author: 'Kahi, Hawaï'
+        avatar: ''
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          “As a past client of LTL Surfcharters my choice to use their services
+          in the future is a resounding hell yeah! We wanted to travel half way
+          around the world to the Maldives. I checked with them through a
+          recommendation. They have a regularly updated list of last minute
+          deals. The process was easy to book and when we landed in the Maldives
+          we had staff waiting and ready to lug our bags to the boat.”
     title: Testimonials
     type: testimonialsblock
   - actions:
