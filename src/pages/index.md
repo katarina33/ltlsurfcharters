@@ -69,13 +69,13 @@ sections:
     title: Testimonials
     type: testimonialsblock
   - actions:
-      - label: View Blog
-        url: blog/index.html
+      - label: View Editorial
+        url: editorial/index.html
     component: PostsBlock
     num_posts_displayed: 2
     section_id: latest-posts
     subtitle: ''
-    title: News
+    title: Editorial
     type: postsblock
   - component: ContactBlock
     section_id: contact
