@@ -70,7 +70,7 @@ sections:
     type: testimonialsblock
   - actions:
       - label: View Editorial
-        url: editorial/index.html
+        url: blog/index.html
     component: PostsBlock
     num_posts_displayed: 2
     section_id: latest-posts
