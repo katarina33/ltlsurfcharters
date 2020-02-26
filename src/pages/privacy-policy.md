@@ -1,5 +1,9 @@
 ---
 title: Privacy Policy
+menus:
+  main:
+    title: Privacy Policy
+    weight: 5
 template: page
 ---
 ### **Privacy Policy of LTL Surf Charters**
