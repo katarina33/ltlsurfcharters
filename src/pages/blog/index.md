@@ -1,8 +1,9 @@
 ---
-title: Blog
+title: Editorial
 menus:
   main:
-    title: Blog
+    title: Editorial
     weight: 3
 template: blog
 ---
+
