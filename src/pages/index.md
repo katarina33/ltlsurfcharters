@@ -76,12 +76,15 @@ sections:
     component: PostsBlock
     num_posts_displayed: 2
     section_id: latest-posts
-    subtitle: An optional subtitle of the section
-    title: Latest from the Blog
+    subtitle: ''
+    title: News
     type: postsblock
   - component: ContactBlock
     section_id: contact
-    subtitle: An optional subtitle of the section
+    subtitle: >-
+      Send us your preferred region, for how many surfers, your dates and phone
+      number with country code, so we can call you if we need extra information
+      to find you the best surf charter options.
     title: Contact Us
     type: contactblock
 menus:
