@@ -15,7 +15,7 @@ sections:
     num_projects_displayed: 6
     section_id: latest-surfcharters
     subtitle: 'LTL Surf Charters offers a wide collection of the best surf boats. '
-    title: Our Latest Surfcharters
+    title: Surfcharters Collection
     type: portfolioblock
     view_all_text: View All
     view_all_url: portfolio/index.html
@@ -23,10 +23,11 @@ sections:
     section_id: services
     serviceslist:
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
-        title: Service Title
+          There are so many surf boats out there. Let us guide you to find the
+          best suitable surf charter vessel for you. Join a trip as a single
+          surfer, with a small group or book a private surf boat with your
+          friends.
+        title: Free Personal Assistance
       - content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
@@ -41,7 +42,7 @@ sections:
           justo, sit amet condimentum lorem nibh vel quam. Duis consectetur
           lorem ipsum, non efficitur urna viverra et.
         title: Service title
-    subtitle: An optional subtitle of the section
+    subtitle: The best surfcharter options
     title: What We Offer
     type: servicesblock
   - component: TestimonialsBlock
