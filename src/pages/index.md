@@ -29,10 +29,9 @@ sections:
           friends.
         title: Free Personal Assistance
       - content: >-
-          We work directly with the boat owners. You pay the same as if you
-          would book with the boat directly. We make sure you get the best deal;
-          we ask for early booking or last-minute discounts for you and give you
-          the extra commission we receive.
+          We work directly with the boat owners. We make sure you get the best
+          deal; we will offer you all early booking or last-minute rates and
+          give you the extra commission we receive as a discount.
         title: Best Rates & Specials
       - content: >-
           The most popular regions for surf charter trips are certainly Maldives
