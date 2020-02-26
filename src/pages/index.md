@@ -29,19 +29,23 @@ sections:
           friends.
         title: Free Personal Assistance
       - content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius. 
-        title: Service Title
+          We work directly with the boat owners. We don't take extra commission
+          and you pay the same as if you would book with the boat directly. We
+          make sure you get the best deal; we ask for early booking or
+          last-minute discounts for you and give you the extra commission we
+          receive.
+        title: Best Rates & Specials
       - content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        title: Service title
+          The most popular regions for surf charter trips are certainly Maldives
+          and Mentawai Islands. We also selected surfboat that specialise in
+          Banyaks and Telos Islands. Each region is different in many ways.
+        title: All Surf Regions
       - content: >-
-          Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis
-          justo, sit amet condimentum lorem nibh vel quam. Duis consectetur
-          lorem ipsum, non efficitur urna viverra et.
-        title: Service title
+          LTL Surf Charters plants trees to offset your carbon footprint. We
+          plant 10 trees per single surfer booking and 100 if you book a private
+          charter through LTL Surf Charters. We send you the tree certificate
+          after your trip.
+        title: We plant Trees for you
     subtitle: The best surfcharter options
     title: What We Offer
     type: servicesblock
