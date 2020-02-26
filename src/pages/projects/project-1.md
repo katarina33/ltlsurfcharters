@@ -10,9 +10,13 @@ The Orca Laut has a steel hull and deck with a Detroit 671 Diesel engine. With 3
 
 The team consists of locals and westerners with an unrivalled experience and they make sure you can enjoy a worry-free and unforgettable surf charter trip in Mentawai Sumatra, Indonesia. The trip is all-inclusive and they take care of you from your arrival at Padang Airport until you take your flight back home.
 
+![Orca Laut Surf Charter Mentawai Surfing wave David Burden Photography](/images/orca-laut-surf-charter-mentawai-david-burden-photo-18.jpg "Orca Laut Surf Charter Mentawai Surfing wave David Burden Photography")
+
 In between surf sessions you can relax on the sundeck of the boat or in the airconditioned living area with an entertainment corner. There is equipment on board to enjoy some snorkelling and fishing.
 
 The trips are 11 nights / 10 days all-included, following a fixed schedule from February to October. You can book with a group and they also take single bookings to fill up the boat. Ask for the specials and bodyboard trips with ex legend boogers Garth Mcgegror n Adam Wingnut Smith.
+
+![Orca Laut Surf Charter Trip Mentawai Food](/images/orca-laut-surf-charter-mentawai-david-burden-photo-8.jpg "Orca Laut Surf Charter Mentawai Food")
 
 ### INCLUDED:
 
