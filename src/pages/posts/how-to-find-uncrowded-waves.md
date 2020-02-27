@@ -2,6 +2,7 @@
 title: How to find uncrowded waves
 date: 2020-02-27T15:21:49.742Z
 thumb_img_path: /images/surf-charter-trip-mentawai-islands-ltl-surfcharters.png
+content_img_path: /images/surf-charter-trip-mentawai-islands-ltl-surfcharters.png
 excerpt: >-
   As surfing is getting more and more popular, it's getting more difficult to
   surf uncrowded waves. It's still possible though and booking a surf charter
