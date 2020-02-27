@@ -73,7 +73,8 @@ sections:
     subtitle: >-
       Send us your preferred region, for how many surfers, your dates and phone
       number with country code, so we can call you if we need extra information
-      to find you the best surf charter options.
+      to find you the best surf charter options. We'll get back to you within 24
+      hours and often much sooner.
     title: Contact Us
     type: contactblock
   - actions:
