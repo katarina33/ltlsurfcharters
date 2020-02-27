@@ -68,6 +68,14 @@ sections:
           we had staff waiting and ready to lug our bags to the boat.”
     title: Testimonials
     type: testimonialsblock
+  - component: ContactBlock
+    section_id: contact
+    subtitle: >-
+      Send us your preferred region, for how many surfers, your dates and phone
+      number with country code, so we can call you if we need extra information
+      to find you the best surf charter options.
+    title: Contact Us
+    type: contactblock
   - actions:
       - label: View Editorial
         url: blog/index.html
@@ -77,14 +85,6 @@ sections:
     subtitle: ''
     title: Editorial
     type: postsblock
-  - component: ContactBlock
-    section_id: contact
-    subtitle: >-
-      Send us your preferred region, for how many surfers, your dates and phone
-      number with country code, so we can call you if we need extra information
-      to find you the best surf charter options.
-    title: Contact Us
-    type: contactblock
 menus:
   main:
     title: Home
