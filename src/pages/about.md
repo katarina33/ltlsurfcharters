@@ -23,21 +23,3 @@ Depending on your group and flexibility in dates, we will send you the best opti
 #### You pay the same as if you would book directly.
 
 #### We plant 10 trees per surfer & 100 per full charter booking.
-
-```jsx
-import React from "react"
-const Video = ({ https://www.youtube.com/watch?v=UYXK0b7m1uE, The Dream Banyaks Surf Charter Trip, ...props }) => (
-  <div className="video">
-    <iframe
-      src={videoSrcURL}
-      title={videoTitle}
-      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-      frameBorder="0"
-      webkitallowfullscreen="true"
-      mozallowfullscreen="true"
-      allowFullScreen
-    />
-  </div>
-)
-export default Video
-```
