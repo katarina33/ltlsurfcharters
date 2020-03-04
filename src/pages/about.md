@@ -24,6 +24,20 @@ Depending on your group and flexibility in dates, we will send you the best opti
 
 #### We plant 10 trees per surfer & 100 per full charter booking.
 
-```
-https://www.youtube.com/watch?time_continue=2&v=UYXK0b7m1uE&feature=emb_logo
+```jsx
+import React from "react"
+const Video = ({ videoSrcURL, videoTitle, ...props }) => (
+  <div className="video">
+    <iframe
+      src={https://www.youtube.com/watch?time_continue=2&v=UYXK0b7m1uE&feature=emb_logo}
+      title={The Dream Banyaks Surf Charter Trip - LTL Surf Charters}
+      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+      frameBorder="0"
+      webkitallowfullscreen="true"
+      mozallowfullscreen="true"
+      allowFullScreen
+    />
+  </div>
+)
+export default Video
 ```
