@@ -1,6 +1,6 @@
 ---
 title: Honors Legacy
-subtitle: 'All Maldives Atolls, No fixed schedule, group bookings'
+subtitle: All Maldives Atolls - No fixed schedule - Group bookings
 date: 2020-03-04T16:36:37.286Z
 thumb_img_path: /images/honors-legacy-surf-charter-sideview.jpg
 content_img_path: /images/honors-legacy-surf-charter-sideview.jpg
