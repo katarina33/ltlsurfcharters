@@ -26,11 +26,11 @@ Depending on your group and flexibility in dates, we will send you the best opti
 
 ```jsx
 import React from "react"
-const Video = ({ videoSrcURL, videoTitle, ...props }) => (
+const Video = ({ https://www.youtube.com/watch?v=UYXK0b7m1uE, The Dream Banyaks Surf Charter Trip, ...props }) => (
   <div className="video">
     <iframe
-      src={https://www.youtube.com/watch?time_continue=2&v=UYXK0b7m1uE&feature=emb_logo}
-      title={The Dream Banyaks Surf Charter Trip - LTL Surf Charters}
+      src={videoSrcURL}
+      title={videoTitle}
       allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
       frameBorder="0"
       webkitallowfullscreen="true"
