@@ -1,18 +1,25 @@
 ---
 title: About Us
-subtitle: This is a short page about us and our work.
-img_path: images/about.jpg
+subtitle: We search the most suitable and best surf charter options for you.
+img_path: ''
 menus:
   main:
     title: About
     weight: 4
 template: page
 ---
+LTL Surfcharters has over 10 years experience in assisting surfers with their surf boat bookings in Maldives, Mentawais, Banyaks and beyond.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+### Boat trips tend to run on one of three concepts:
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+* A fixed schedule where you can join for the exact trip dates. 
+* A boat that you can charter with your group for the dates of your choice. 
+* Or there is the ‘open boat’ concept, which means you can arrive and leave on the boat when you want, perfect for single surfers.
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+#### Finding the most suitable option for your budget is not easy. We know the best options and can do the search for you. Our service is free. We don't add any commission.
 
-*Thank You for reading!*
+Depending on your group and flexibility in dates, we will send you the best options to choose from. When you want to secure a trip, you pay directly to the owner or local manager of the surf charter. We assist you in the whole process, from planning to feedback after the trip.
+
+#### You pay the same as if you would book directly.
+
+#### We plant 10 trees per surfer & 100 per full charter booking.
