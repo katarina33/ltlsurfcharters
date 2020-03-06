@@ -1,6 +1,6 @@
 ---
 title: Nusa Dewata
-subtitle: Mentawai /Telos Islands - Fixed Schedule - Individual and Group Bookings.
+subtitle: Mentawai /Telos - Fixed Schedule - Individual / Group Bookings
 date: 2020-03-06T16:20:02.520Z
 thumb_img_path: /images/mentawai-surf-charter-nusa-dewata2.jpg
 content_img_path: /images/mentawai-surf-charter-nusa-dewata2.jpg
