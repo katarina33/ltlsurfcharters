@@ -6,7 +6,7 @@ thumb_img_path: /images/mentawai-surf-charter-nusa-dewata2.jpg
 content_img_path: /images/mentawai-surf-charter-nusa-dewata2.jpg
 template: project
 ---
-### The Nusa Dewata Surf Charter Boat takes you on an 11 nights surf charter trip to the Mentawai Islands and Telos on request.
+## The Nusa Dewata Surf Charter Boat takes you on an 11 nights surf charter trip to the Mentawai Islands and Telos on request.
 
 They specialise in small groups of up to 6 pax. Single bookings are possible.
 
@@ -38,9 +38,7 @@ And free surf coaching and sailing coaching are available for those who want. A 
 
 ![Nusa Dewata Surf Charter Boat Mentawai and Telos Islands Waves](/images/nusa-dewata-surf-charter-mentawai-islands5.jpg "Nusa Dewata Surf Charter Boat Mentawai and Telos Islands Waves")
 
-### \
-\
-INCLUDED:
+### INCLUDED:
 
 * Transport from and to airport
 * 11 nights onboard Nusa Dewata 
