@@ -6,9 +6,9 @@ thumb_img_path: /images/mentawai-surf-charter-nusa-dewata2.jpg
 content_img_path: /images/mentawai-surf-charter-nusa-dewata2.jpg
 template: project
 ---
-## The Nusa Dewata Surf Charter Boat takes you on an 11 nights surf charter trip to the Mentawai Islands and Telos on request.
+The Nusa Dewata Surf Charter Boat takes you on an 11 nights surf charter trip to the Mentawai Islands and Telos on request.
 
-They specialise in small groups of up to 6 pax. Single bookings are possible.
+### They specialise in small groups of up to 6 pax. Single bookings are possible.
 
 ![Nusa Dewata Surf Charter Boat Mentawai and Telos Islands](/images/mentawai-surf-charter-nusa-dewata5.jpg "Nusa Dewata Surf Charter Boat Mentawai and Telos Islands")
 
@@ -16,7 +16,9 @@ The Nusa Dewata is one of the first timber boats built in Indonesia. It has been
 
 ![Nusa Dewata Surf Charter Boat Mentawai and Telos Islands Dingy](/images/mentawai-surf-charter-nusa-dewata9.jpg "Nusa Dewata Surf Charter Boat Mentawai and Telos Islands Dingy")
 
-They have a fixed schedule of 11 nights with 10 days of surfing or longer on request. The owner guides himself on most of the trips. The dorm style accommodation is fully airconditioned with widened bottom bunk beds. There is a marine toilet with shower. The outdoor shower is perfect for after the surf.
+#### They have a fixed schedule of 11 nights with 10 days of surfing or longer on request. 
+
+The owner guides himself on most of the trips. The dorm style accommodation is fully airconditioned with widened bottom bunk beds. There is a marine toilet with shower. The outdoor shower is perfect for after the surf.
 
 ![Nusa Dewata Surf Charter Boat Mentawai and Telos Islands Rooms](/images/mentawai-surf-charter-nusa-dewata6.jpg "Nusa Dewata Surf Charter Boat Mentawai and Telos Islands Rooms")
 
