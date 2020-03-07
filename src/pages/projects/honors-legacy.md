@@ -6,7 +6,7 @@ thumb_img_path: /images/honors-legacy-luxury-surf-charter-yacht-maldives-13.jpg
 content_img_path: /images/honors-legacy-luxury-surf-charter-yacht-maldives-13.jpg
 template: project
 ---
-### Breeze to the Maldives surf spots in style with Honors Legacy. 
+### Breeze to the Maldives surf spots in style with Honors Legacy.
 
 A stunning luxury yacht, designed for surf and dive charter trips around the Maldives Atolls. With special attention to detail, it ensures the highest comfort and quality to all guests.
 
@@ -33,8 +33,8 @@ High-quality dining is an essential of a cruise experience. So they bring you lo
 ### Stay onboard this exclusive yacht and draw your own surf or dive adventure, how you like it and in style.
 
 ## RATE INCLUDES:
-– Airport “meet and greet”
-– Return transfer from the airport to the vessel
+
+– Airport “meet and greet” – Return transfer from the airport to the vessel
 – Accommodation (based on 2 sharing)
 – Full board basis (buffet – breakfast, lunch & dinner) and snacks
 – Unlimited Drinking water
@@ -42,11 +42,12 @@ High-quality dining is an essential of a cruise experience. So they bring you lo
 – Dingy transfer from boat to Surf breaks
 
 ## NOT INCLUDED, Extras:
-– Central & Laamu Atoll Fuel Supplement – US$ 3000 return
-– Dhoni hire US$250 per day
+
+– Central & Laamu Atoll Fuel Supplement – US$ 3000 return – Dhoni hire US$250 per day
 – Surf Guide: US$65 per guide per day (subject to availability)
 
 #### Normal check in time: 1300 hrs. Normal check out time: 0900 hrs.
+
 #### Surfing Season with Honors Legacy is from May 1st to September 30th
 
 ![Honors Legacy Luxury Surf Charter Yacht Maldives Surfing](/images/honors-legacy-luxury-surf-charter-yacht-maldives-3.jpg "Honors Legacy Luxury Surf Charter Yacht Maldives Surfing")
