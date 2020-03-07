@@ -2,8 +2,8 @@
 title: Honors Legacy
 subtitle: All Maldives Atolls - No fixed schedule - Group bookings
 date: 2020-03-04T16:36:37.286Z
-thumb_img_path: /images/honors-legacy-surf-charter-sideview.jpg
-content_img_path: /images/honors-legacy-surf-charter-sideview.jpg
+thumb_img_path: /images/honors-legacy-luxury-surf-charter-yacht-maldives-13.jpg
+content_img_path: /images/honors-legacy-luxury-surf-charter-yacht-maldives-13.jpg
 template: project
 ---
 ### Breeze to the Maldives surf spots in style with Honors Legacy. 
