@@ -34,6 +34,6 @@ Lastly, there is the sun deck which is partially shaded and has the jacuzzi and 
 
 ![Carpe Vita Explorer Maldives Surf Charter Meals](/images/carpe-vita-explorer-maldives-surf-charter-meal.jpg "Carpe Vita Explorer Maldives Surf Charter Meals")
 
-##### The Carpe Vita Explorer has wifi throughout and offers the highest comfort and facilities. So you can explore the Maldives, which is a real dive, surf, fishing and cruising paradise.
+#### The Carpe Vita Explorer has wifi throughout and offers the highest comfort and facilities. So you can explore the Maldives, which is a real dive, surf, fishing and cruising paradise.
 
 ![Carpe Vita Explorer Maldives Surf Charter Surfing](/images/carpe-vita-explorer-maldives-surf-charter-surfing.jpg "Carpe Vita Explorer Maldives Surf Charter Surfing")
