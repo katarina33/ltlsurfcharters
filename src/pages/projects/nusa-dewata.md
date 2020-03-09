@@ -57,4 +57,4 @@ And free surf coaching and sailing coaching are available for those who want. A 
 
 Plan to arrive on the first day of the scheduled charter trip dates, the boat departs in the evening Nusa Dewata will return early morning of the last day of the charter trip dates
 
-![Nusa Dewata Surf Charter Boat Mentawai and Telos Islands Air](/images/mentawai-surf-charter-nusa-dewata-surf.jpg "Nusa Dewata Surf Charter Boat Mentawai and Telos Islands Air")
+![Nusa Dewata Surf Charter Boat Mentawai and Telos Islands Air](/images/nusa-dewata-surf-charter-mentawai-islands-surfing.jpg "Nusa Dewata Surf Charter Boat Mentawai and Telos Islands Air")
