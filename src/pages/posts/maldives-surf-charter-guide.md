@@ -1,8 +1,8 @@
 ---
 title: Maldives Surf Charter Guide
 date: 2020-02-27T15:58:08.195Z
-thumb_img_path: /images/empty-wave.jpg
-content_img_path: /images/empty-wave.jpg
+thumb_img_path: /images/empty-wave-maldives.jpg
+content_img_path: /images/empty-wave-maldives.jpg
 excerpt: >-
   The Maldives has become a real surfers paradise and very popular with beginner
   and experienced surfers. There is a wide variety of options, which can be
