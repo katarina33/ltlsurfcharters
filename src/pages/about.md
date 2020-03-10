@@ -10,16 +10,12 @@ template: page
 ---
 LTL Surfcharters has over 10 years experience in assisting surfers with their surf boat bookings in Maldives, Mentawais, Banyaks and beyond.
 
-### Boat trips tend to run on one of three concepts:
+Let us do the searching for you. All you have to do is fill out the form with your requirements on our [contact page](https://ltlsurfcharters-680b6.netlify.com/contact/). We will email you within 24 hours and find you the best suitable charter trip options. Is there a specific boat that interests you ? We’ll check with that boat and many more if you like …
 
-* A fixed schedule where you can join for the exact trip dates. 
-* A boat that you can charter with your group for the dates of your choice. 
-* Or there is the ‘open boat’ concept, which means you can arrive and leave on the boat when you want, perfect for single surfers.
+Our assistance is free and the booking process is easy. When you make your choice, you pay to the responsible owner or local agent directly, with no extra booking fees. We make sure they offer you their best rate!
 
-#### Finding the most suitable option for your budget is not easy. We know the best options and can do the search for you. Our service is free. We don't add any commission.
-
-Depending on your group and flexibility in dates, we will send you the best options to choose from. When you want to secure a trip, you pay directly to the owner or local manager of the surf charter. We assist you in the whole process, from planning to feedback after the trip.
-
-#### You pay the same as if you would book directly.
+We are looking forward to assist you with securing your charter trip.
 
 #### We plant 10 trees per surfer & 100 per full charter booking.
+
+![OneTreePlanted Partnership LTL Surfcharters](/images/onetreeplanted_key-logo_long_black.png "OneTreePlanted Partnership LTL Surfcharters")
