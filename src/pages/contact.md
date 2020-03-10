@@ -15,3 +15,8 @@ Please answer these questions in the message below or send us an email at contac
 * What's your maximum budget for the trip?
 
 Include your phone number with country code in the message, so we can call you if we need extra information to find you the best surf charter options.
+
+We'll get back to you within 24 hours and often much sooner.
+
+Looking forward to assist you with your Surf Charter Trip Planning !
+
