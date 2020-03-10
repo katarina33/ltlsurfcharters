@@ -1,6 +1,6 @@
 ---
 title: Santana Laut
-subtitle: 'Mentawai, Telos, Banyak - Fixed Schedule - Individual /Group bookings'
+subtitle: 'Mentawai, Telos, Banyak - Fixed Schedule - Individual /Group'
 date: 2020-03-10T10:28:40.754Z
 thumb_img_path: /images/santana-laut-surf-charter-boat-mentawai-telos-banyaks.jpg
 content_img_path: /images/santana-laut-surf-charter-boat-mentawai-telos-banyaks.jpg
@@ -39,20 +39,20 @@ Contact us for the latest available schedule and a custom quote. Single surfer b
 ### INCLUDED :
 
 – Pick-up & drop-off from the airport \
-– 12 nights accommodation on the boat
-– 3 gourmet meals from the excellent chef
-– Snacks, drinks
-– 30 x cases of beers
-– Use of SUP’s and kayak, fishing and snorkelling gear
+– 12 nights accommodation on the boat \
+– 3 gourmet meals from the excellent chef \
+– Snacks, drinks \
+– 30 x cases of beers \
+– Use of SUP’s and kayak, fishing and snorkelling gear \
 – Tender boat for up to 10 people, equipped with fish finder gps and board racks.
 
 ### NOT INCLUDED:
 
 – Accommodation in Padang \
-– Airfares
-– Mentawai Tax
-– Yoga ( on request @ extra cost )
-– Healthy organic food ( on request @ extra cost )
+– Airfares \
+– Mentawai Tax \
+– Yoga ( on request @ extra cost )\ 
+– Healthy organic food ( on request @ extra cost )\
 – Apnea and surf survival course ( on request @ extra cost)
 
 ![Santana Laut Surf Charter Boat Mentawai Telos Banyak Nature views](/images/santana-laut-surf-charter-mentawai-nature-views.jpg "Santana Laut Surf Charter Boat Mentawai Telos Banyak Nature Views")
