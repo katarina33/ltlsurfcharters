@@ -25,7 +25,6 @@ A perfect option for that special occasion with your partner, family or friends.
 ![Blue Horizon Surf Catamaran Private Charter Dining](/images/surf-catamaran-maldives-blue-horizon-dining.jpg "Blue Horizon Surf Catamaran Private Charter  Dining")
 
 \
-\
 You can enjoy exquisite world cuisine, served in the indoor dining area or on the front deck, from where you can enjoy the breathtaking scenery.
 
 The Blue Horizon Catamaran offers the highest comfort in their 4 air-conditioned cabins. You will feel like staying in a five-star hotel with the ultimate freedom and breathtaking views. Plan your own itinerary and fill it up with activities. Like a bbq on a deserted island, some island hopping, visiting resorts,…..
