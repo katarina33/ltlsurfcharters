@@ -17,5 +17,3 @@ Our assistance is free and the booking process is easy. When you make your choic
 We are looking forward to assist you with securing your charter trip.
 
 #### We plant 10 trees per surfer & 100 per full charter booking.
-
-![OneTreePlanted Partnership LTL Surfcharters](/images/onetreeplanted_key-logo_long_black.png "OneTreePlanted Partnership LTL Surfcharters")
