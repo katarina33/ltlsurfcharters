@@ -18,11 +18,9 @@ The main salon of the Melaleuca is equipped with comfortable couches, a bar, a f
 
 ![Melaleuca Surf Charter Boat Mentawai Islands Cabins](/images/melaleuca-surf-boat-mentawai-cabins.jpg "Melaleuca Surf Charter Boat Mentawai Islands Cabins")
 
-The Melaleuca can reach a cruising speed of up to 12 knot. All necessary safety equipment is on board. Our 20 foot tender will take you to the waves or wherever you want to go.
-
-#### The Melaleuca’s exterior is more spacious than any other local boat.
-
-The upper deck is huge with a booming stereo that you can hear in the lineup if you like. Half the upper deck is open and half is covered. You get real shade with our hard top. Spread out with 360 degrees of unobstructed views of the waves.
+The Melaleuca can reach a cruising speed of up to 12 knot. All necessary safety equipment is on board. Our 20 foot tender will take you to the waves or wherever you want to go.\
+\
+The Melaleuca’s exterior is more spacious than any other local boat. The upper deck is huge with a booming stereo that you can hear in the lineup if you like. Half the upper deck is open and half is covered. You get real shade with our hard top. Spread out with 360 degrees of unobstructed views of the waves.
 
 ![Melaleuca Surf Charter Boat Mentawai Islands](/images/melaleuca-surf-charter-boat-mentawai-islands.jpg "Melaleuca Surf Charter Boat Mentawai Islands")
 
