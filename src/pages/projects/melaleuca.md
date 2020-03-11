@@ -1,6 +1,6 @@
 ---
 title: Melaleuca
-subtitle: 'Mentawai/Banyaks/Telos/Nias- Fixed schedule: 10d/11n - Individual/Group'
+subtitle: Mentawai/Banyaks/Telos - Fixed schedule - Individual/Group
 date: 2020-03-11T16:28:03.780Z
 thumb_img_path: /images/melaleuca-surf-charter-boat-mentawai-islands-wave.jpg
 content_img_path: /images/melaleuca-surf-charter-boat-mentawai-islands-wave.jpg
