@@ -31,7 +31,7 @@ The fishing station is also covered with a hard top and gives great access to so
 
 ### INCLUDED:
 
-* All transfers to and from Padang airport to your transit hotel and or boat. 
+* All transfers to and from Padang airport to your transit hotel and or boat 
 * Surf package in the Mentawai Islands.
 * All meals, snacks, juices, soft drinks and coffee on vessel.
 * 3 ice cold beers a day. 
@@ -39,7 +39,7 @@ The fishing station is also covered with a hard top and gives great access to so
 ### NOT INCLUDED:
 
 * Airfare to and from Padang, Sumatra, Indonesia.
-* Visa fees on arrival. 
+* Visa fees on arrival.
 * Hotel in Padang.
 * Meals off vessel.
 * Airport taxes.
@@ -50,7 +50,7 @@ The fishing station is also covered with a hard top and gives great access to so
 * Personal tips for the onboard crew (We recommend USD$100 per crew member and normally there are 6 crew members so USD$600 in total). The crew also loves board shorts, t-shirts and surf gear with their tips.
 * Travel Insurance (Mandatory if you book a charter boat trip!)
 
-  ![Melaleuca Surf Charter Boat Mentawai Islands Meals](/images/melaleuca-surf-charter-boat-mentawai-islands-meals.jpg "Melaleuca Surf Charter Boat Mentawai Islands Meals")
+![Melaleuca Surf Charter Boat Mentawai Islands Meals](/images/melaleuca-surf-charter-boat-mentawai-islands-meals.jpg "Melaleuca Surf Charter Boat Mentawai Islands Meals")
 
 ### *CLIENT FEEDBACK:*
 
