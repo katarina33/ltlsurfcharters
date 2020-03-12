@@ -21,6 +21,11 @@
       "title": "YouTube",
       "url": "https://www.youtube.com/channel/UCsqvT1NEOopHMN6gcZer0yw",
       "icon": "fa-youtube"
+    },
+    {
+      "title": "Pinterest",
+      "icon": "fa-pinterest",
+      "url": "www.pinterest.com/LTLSurfCharters"
     }
   ]
 }
