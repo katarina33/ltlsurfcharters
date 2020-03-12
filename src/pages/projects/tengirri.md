@@ -29,20 +29,20 @@ The Tengirri Mentawai Surf Charter its trip dates are fixed and 11 full days or 
 ### INCLUDED:
 
 – pick-up and drop-off at Padang airport \
-– 12 nights air-conditioned accommodation 
-– all meals, snacks, water, soft drinks, coffee, tea
-– 20 cartons of Bintang per charter trip
-– use of all equipment for fishing and snorkelling
-– FREE video/photo service ( bring a usb flash drive )
-– dinghy use for surfing, fishing
+– 12 nights air-conditioned accommodation  \
+– all meals, snacks, water, soft drinks, coffee, tea\
+– 20 cartons of Bintang per charter trip\
+– use of all equipment for fishing and snorkelling\
+– FREE video/photo service ( bring a usb flash drive )\
+– dinghy use for surfing, fishing\
 – experienced Australian surf guide and skipper
 
 ### NOT INCLUDED:
 
 – extra beer and other alcohol ( please advice at reservation )  \
-– phone calls: US$5/minute ( incoming calls are free ) 
+– phone calls: US$5/minute ( incoming calls are free ) \
 – email is not available\
-- The Mentawai Tax of rp 1,150,000 per surfer will be added and collected with your final payment.
+– The Mentawai Tax of rp 1,150,000 per surfer will be added and collected with your final payment.
 
 Tengirri will departure @ 3-4pm on the first day of the trip ( plan your arrival no later than 12pm on departure day). Return is in the morning on the last day, as the boat sails during the night to go back to the harbour.
 
