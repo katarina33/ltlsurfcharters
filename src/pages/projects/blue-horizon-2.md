@@ -10,7 +10,6 @@ The Blue Horizon Surf Charter Boat Trips will take you out surfing in the Maldiv
 
 ![Blue Horizon 2 Surf Charter Boat Maldives Decks](/images/blue-horizon-ii-surf-charter-maldives-deck.jpg "Blue Horizon 2 Surf Charter Boat Maldives Decks")
 
-\
 There are 6 air-conditioned rooms on the boat or a capacity of 12 guests. Each cabin has a bathroom with shower and hot and cold water. There are 2 double bedrooms and 4 twin bedrooms on board. All meals, snacks and coffee and tea are included. There is a 1,5 liter mineral water bottle per person per day.
 
 ![Blue Horizon 2 Surf Charter Boat Maldives Cabins](/images/blue-horizon-ii-surf-charter-maldives-bunks-.jpg "Blue Horizon 2 Surf Charter Boat Maldives  Cabins")
