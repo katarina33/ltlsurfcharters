@@ -1,12 +1,6 @@
 {
   "links": [
     {
-      "type": "twitter",
-      "title": "Twitter",
-      "icon": "fa-twitter",
-      "url": "https://twitter.com/ltlsurfcharters"
-    },
-    {
       "type": "instagram",
       "title": "Instagram",
       "icon": "fa-instagram",
@@ -21,6 +15,12 @@
       "title": "YouTube",
       "url": "https://www.youtube.com/channel/UCsqvT1NEOopHMN6gcZer0yw",
       "icon": "fa-youtube"
+    },
+    {
+      "type": "twitter",
+      "title": "Twitter",
+      "icon": "fa-twitter",
+      "url": "https://twitter.com/ltlsurfcharters"
     },
     {
       "title": "Pinterest",
