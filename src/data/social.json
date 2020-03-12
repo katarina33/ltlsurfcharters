@@ -16,6 +16,11 @@
       "title": "Facebook",
       "icon": "fa-facebook",
       "url": "https://www.facebook.com/LTLSurfCharters/"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/channel/UCsqvT1NEOopHMN6gcZer0yw",
+      "icon": "fa-youtube"
     }
   ]
 }
