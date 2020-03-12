@@ -2,6 +2,8 @@
 title: Ocean Divine
 subtitle: Maldives Atolls - Surf/Dive Schedule - Individual/Group
 date: 2020-03-12T10:19:15.522Z
+thumb_img_path: /images/ocean-divine-luxury-surf-charter-yacht-maldives-boat.jpg
+content_img_path: /images/ocean-divine-luxury-surf-charter-yacht-maldives-boat.jpg
 template: project
 ---
 ### Ocean Divine is one of the most luxurious vessels in Maldives.
