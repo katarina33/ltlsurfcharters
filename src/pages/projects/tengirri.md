@@ -1,6 +1,6 @@
 ---
 title: Tengirri
-subtitle: 'Mentawai/Telos - Fixed schedule: 11d12n - Individual/Group'
+subtitle: 'Mentawai/Telos - Fixed schedule: 11d/12n - Individual/Group'
 date: 2020-03-12T15:05:24.422Z
 thumb_img_path: /images/tengirri-mentawai-surf-charter-power-catamaran-boat.jpg
 content_img_path: /images/tengirri-mentawai-surf-charter-power-catamaran-boat.jpg
@@ -33,7 +33,7 @@ The Tengirri Mentawai Surf Charter its trip dates are fixed and 11 full days or 
 – all meals, snacks, water, soft drinks, coffee, tea\
 – 20 cartons of Bintang per charter trip\
 – use of all equipment for fishing and snorkelling\
-– FREE video/photo service ( bring a usb flash drive )\
+– FREE video & photo service ( bring a usb flash drive )\
 – dinghy use for surfing, fishing\
 – experienced Australian surf guide and skipper
 
