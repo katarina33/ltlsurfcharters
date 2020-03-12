@@ -29,3 +29,22 @@ Ocean Divine has a tender and dingy. You can decide when you want to surf and do
 The first class chef on board prepares international cuisine and  top local specialties with the freshest local and imported ingredients. If you have special dietary requests, let us know. Ocean Divine brings you lots of variation, which is not always the case on other local surf charter boats. Another thing where Ocean Divine is different and more luxury…
 
 ![Ocean Divine Luxury Surf Yacht Charter Boat Maldives Wave](/images/ocean-divine-luxury-surf-charter-yacht-maldives-sup.jpg "Ocean Divine Luxury Surf Yacht Charter Boat Maldives Wave")
+
+#### INCLUDED (Surf Trips):
+
+- Return airport transfers
+- Tourism taxes
+- Air-Conditioned twin share cabin with ensuite bathroom
+- All meals and non-alcoholic beverages, incl hot drinks
+- Use of all on board equipment (for snorkelling)
+- Services of expert guides (surf and dive guides)
+- Fishing from the Dhoni
+- Visit to local island
+
+#### NOT INCLUDED (Surf Trips):
+
+- Alcoholic beverages
+- Massage
+- Diving
+- Internet
+- Diving course (on request: 130$/pers )
