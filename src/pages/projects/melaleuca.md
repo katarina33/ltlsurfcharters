@@ -57,4 +57,3 @@ The fishing station is also covered with a hard top and gives great access to so
 
 ![Melaleuca Surf Charter Boat Mentawai Islands surfer](/images/melaleuca-surf-charter-boat-mentawai-islands-surfing.jpg "Melaleuca Surf Charter Boat Mentawai Islands surfer")
 
-[![The Dream Banyak Surf Charter Video](http://img.youtube.com/vi/uNZ0hkpwMzA/0.jpg)](http://www.youtube.com/watch?v=uNZ0hkpwMzA)
