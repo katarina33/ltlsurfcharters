@@ -56,3 +56,5 @@ The fishing station is also covered with a hard top and gives great access to so
 “This was my third trip to Mentawaii and was definitely the best to date. We had amazing waves and our guide made sure all the party had waves for their ability and generally un-crowded. The crew were fantastic and the boat was great. Nothing seemed like too much trouble and they were always smiling. Lastly, I would like to thank you. Throughout the whole process, LTL Surf Charters has always responded to my emails with answers promptly and made me feel comfortable I was booking with a reputable company. If I could offer one piece of feedback it would be for some more comfortable seating on deck but this did not affect our enjoyment it’s just something that would only enhance what is a great boat. I don’t believe the crew and guide could have been any better.Thanks again.”
 
 ![Melaleuca Surf Charter Boat Mentawai Islands surfer](/images/melaleuca-surf-charter-boat-mentawai-islands-surfing.jpg "Melaleuca Surf Charter Boat Mentawai Islands surfer")
+
+[![The Dream Banyak Surf Charter Video](http://img.youtube.com/vi/uNZ0hkpwMzA/0.jpg)](http://www.youtube.com/watch?v=uNZ0hkpwMzA)
