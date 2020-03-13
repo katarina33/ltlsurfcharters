@@ -8,11 +8,11 @@ template: project
 ---
 ### The Star Koat 2 is a surf boat thought thru in every single detail.
 
-It offers surfer guests the ultimate level in comfort and style on board their surf charter trip in search of unexplored waves. Star Koat 2 is now based in the archipelago of Banyaks, North Sumatra. Everything is taken care of and the boat is equipped with all necessary navigation and safety gear.
+It offers surfer guests the ultimate level in comfort and style on board their surf charter trip in search of unexplored waves. Everything is taken care of and the boat is equipped with all necessary navigation and safety gear.
 
 ![Star Koat 2 Surf Charter Mentawai Banyaks Hinako Islands Trip Captain](/images/star-koat-2-surf-charter-mentawai-banyaks-hinako-islands-trip-crew.jpg "Star Koat 2 Surf Charter Mentawai Banyaks Hinako Islands Trip  Captain")
 
-A great option if you want to be off the beaten track with fewer crowds and plenty of world class surf spots. This archipelago offers incredible waves, many only accessible by boat. The experienced surf guide on board will make sure you’ll be at the right spot every day.
+Star Koat 2 is now based in the archipelago of Banyaks, North Sumatra. A great option if you want to be off the beaten track with fewer crowds and plenty of world class surf spots. This archipelago offers incredible waves, many only accessible by boat. The experienced surf guide on board will make sure you’ll be at the right spot every day.
 
 ![Star Koat 2 Surf Charter Mentawai Banyaks Hinako Islands Trip Cabins](/images/star-koat-2-surf-charter-mentawai-banyaks-hinako-islands-trip-cabin.jpg "Star Koat 2 Surf Charter Mentawai Banyaks Hinako Islands Trip  Cabins")
 
@@ -24,25 +24,25 @@ The living room was made to host everyone in great comfort and style with a larg
 
 ![Star Koat 2 Surf Charter Mentawai Banyaks Hinako Islands Trip Food](/images/star-koat-2-surf-charter-mentawai-banyaks-hinako-islands-trip-bar.jpg "Star Koat 2 Surf Charter Mentawai Banyaks Hinako Islands Trip Food")
 
-#### INCLUDED: 
+#### INCLUDED:
 
-- All airport/boat/transfers in Padang
-- On-board air-con cabin accommodation
-- Chef made meals in diversified menu 
-- fruits, snacks, soft drinks, mineral water
-- 15 cartons of Bintang beer per charter
-- 18ft Speedboat, 12ft tender boat
-- fishing & snorkeing gear and SUP
-- Experienced surf guide on board  
+* All airport/boat/transfers in Padang
+* On-board air-con cabin accommodation
+* Chef made meals in diversified menu 
+* Fruits, snacks, soft drinks, mineral water
+* 15 cartons of Bintang beer per charter
+* 18ft Speedboat, 12ft tender boat
+* fishing & snorkeing gear and SUP
+* Experienced surf guide on board
 
 #### NOT INCLUDED:
 
-- Photo and Video services (on request)
-- Indonesia VISA (check your country requirements)
-- Mentawai TAX. (Pay at the airport on arrival, valid for 15 days, cost 1 million rupiah (approximately USD$70)
-- Airline tickets
-- Travel Insurance (mandatory!)
-- Extra alcohol (on request)
+* Photo and Video services (on request)
+* Indonesia VISA (check your country requirements)
+* Mentawai TAX. (1 million rupiah = about USD$70)
+* Airline tickets
+* Travel Insurance 
+* Extra alcoholic drinks (on request)
 
 ![Star Koat 2 Surf Charter Mentawai Banyaks Hinako Islands Trip Fishing](/images/star-koat-2-surf-charter-mentawai-banyaks-hinako-islands-trip-fishing.jpg "Star Koat 2 Surf Charter Mentawai Banyaks Hinako Islands Trip  Fishing")
 
