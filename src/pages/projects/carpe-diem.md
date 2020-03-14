@@ -1,6 +1,6 @@
 ---
 title: Carpe Diem
-subtitle: 'Maldives Atolls - Fixed Schedule: Individual/Group'
+subtitle: Maldives Atolls - Fixed/Custom Dates - Individual/Group
 date: 2020-03-14T13:26:46.839Z
 thumb_img_path: /images/carpe-diem-maldives-surf-boat-charter.jpg
 content_img_path: /images/carpe-diem-maldives-surf-boat-charter.jpg
