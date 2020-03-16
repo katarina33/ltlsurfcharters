@@ -1,6 +1,6 @@
 ---
 title: Ocean Dreams
-subtitle: Mentawai/Telos/Nias - Semi-Fixed Schedule - Iindividual/Group
+subtitle: Mentawai/Telos/Nias - Semi-Fixed Schedule - Individual/Group
 date: 2020-03-16T16:39:46.449Z
 thumb_img_path: /images/ocean-dreams-surf-charters-mentawai-telos-nias-islands-decks.jpg
 content_img_path: /images/ocean-dreams-surf-charters-mentawai-telos-nias-islands-decks.jpg
