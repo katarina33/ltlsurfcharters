@@ -1,6 +1,6 @@
 ---
 title: Dhinasha
-subtitle: Maldives - Flexible DatesOpen boat - Individual/Group
+subtitle: Maldives - Flexible Dates/Open boat - Individual/Group
 date: 2020-03-16T15:16:51.362Z
 thumb_img_path: /images/dhinasha-surf-charter-your-maldives-boat.jpg
 content_img_path: /images/dhinasha-surf-charter-your-maldives-boat.jpg
@@ -20,7 +20,7 @@ The boat offers 7 airconditioned cabins with toilet and spacious living areas, s
 
 ![Dhinasha Surf Charter Boat Your Maldives Dining](/images/dhinasha-surf-charter-your-maldives-dining.jpg "Dhinasha Surf Charter Boat Your Maldives Dining")
 
-#### Trips are all-inclusive with 3 main meals, snacks, water, coffee, tea and more….
+### Trips are all-inclusive with 3 main meals, snacks, water, coffee, tea and more….
 
 ![Dhinasha Surf Charter Boat Your Maldives Sundeck](/images/dhinasha-surf-charter-your-maldives-sundeck.jpg "Dhinasha Surf Charter Boat Your Maldives Sundeck")
 
