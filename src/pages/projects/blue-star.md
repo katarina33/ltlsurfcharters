@@ -64,3 +64,5 @@ In North Male Atoll you can surf waves like Sultans, Chickens, Jails, Cockes, Ho
 #### REMARKS:
 
 Late check-out (after 12.00 noon) + 50% of the cost of one day.
+
+![Blue Star Surf Charter Maldives Open Boat Waves](/images/blue-star-open-boat-surf-charter-maldives-waves.jpg "Blue Star Surf Charter Maldives Open Boat Waves")
