@@ -33,7 +33,7 @@ The trips onboard The Crystal Clear Surf Charter are following a fixed schedule 
 * All food and drinks (excl alcohol beverages)
 * Use onboard equipment and amenities.
 
-##### NOT INCLUDED :
+##### NOT INCLUDED:
 
 * Alcohol ( bring your own duty free or beers for sale on board)
 * Airfares
@@ -41,4 +41,4 @@ The trips onboard The Crystal Clear Surf Charter are following a fixed schedule 
 * Mentawai Surfer Tax (IDR 1 Million per person)
 * Professional pictures/video & drone shots ( on request )
 
-  ![Crystal Clear Surf Charter Trips to Mentawai, Telos, Nias and Banyaks waves](/images/crystal-clear-surf-charters-sumatra-mentawai-waves.jpg "Crystal Clear Surf Charter Trips to Mentawai, Telos, Nias and Banyaks waves")
+![Crystal Clear Surf Charter Trips to Mentawai, Telos, Nias and Banyaks waves](/images/crystal-clear-surf-charters-sumatra-mentawai-waves.jpg "Crystal Clear Surf Charter Trips to Mentawai, Telos, Nias and Banyaks waves")
