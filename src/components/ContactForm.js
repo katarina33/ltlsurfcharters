@@ -16,6 +16,8 @@ export default class ContactForm extends React.Component {
             Don't fill this out if you're human: <input name="bot-field" />
           </label>
         </p>
+        <input type="hidden" name="form-name" value="contactForm" />
+
         <p className="form-row">
           <label className="form-label" htmlFor="contact-user-name">
             Name
