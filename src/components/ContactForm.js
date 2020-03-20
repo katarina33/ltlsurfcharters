@@ -50,7 +50,7 @@ export default class ContactForm extends React.Component {
           </label>
           <input
             type="text"
-            name="number"
+            name="phonenumber"
             id="contact-user-email"
             className="form-input"
             placeholder="Enter your contact number"
@@ -59,11 +59,11 @@ export default class ContactForm extends React.Component {
           <span className="input-focus" aria-hidden="true" />
         </p>
         <p className="form-row">
-          <label className="form-label" htmlFor="contact-user-email">
+          <label className="form-label" htmlFor="destination">
             Charter Destination
           </label>
           <select
-            name="destination"
+            name="destination[]"
             multiple
             style={{ height: "100px" }}
             required
@@ -76,12 +76,12 @@ export default class ContactForm extends React.Component {
           <span className="input-focus" aria-hidden="true" />
         </p>
         <p className="form-row">
-          <label className="form-label" htmlFor="contact-user-email">
+          <label className="form-label" htmlFor="passengers">
             Number of Travelers
           </label>
           <input
             type="text"
-            name="pax"
+            name="passengers"
             id="contact-user-email"
             className="form-input"
             placeholder="Enter number of travelers"
@@ -131,7 +131,7 @@ export default class ContactForm extends React.Component {
           <span className="input-focus" aria-hidden="true" />
         </p>
         <p className="form-row">
-          <label className="form-label" htmlFor="budget">
+          <label className="form-label" htmlFor="contact-user-email">
             Your budget{" "}
           </label>
           <input
