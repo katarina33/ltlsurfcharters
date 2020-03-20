@@ -127,7 +127,7 @@ export default class ContactForm extends React.Component {
             Are your Travel Dates Flexible?{" "}
           </label>
           <select name="travel_dates" id="contact-travel-dates" required>
-            <option value="Yesy">Yes</option>
+            <option value="Yes">Yes</option>
             <option value="No">No</option>
             <option value="No">No, my flights are already booked</option>
           </select>
