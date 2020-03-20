@@ -53,7 +53,7 @@ export default class ContactForm extends React.Component {
           <input
             type="text"
             name="phonenumber"
-            id="contact-user-email"
+            id="contact-user-number"
             className="form-input"
             placeholder="Enter your contact number"
             required
@@ -66,6 +66,7 @@ export default class ContactForm extends React.Component {
           </label>
           <select
             name="destination[]"
+            id="destination"
             multiple
             style={{ height: "100px" }}
             required
@@ -78,13 +79,13 @@ export default class ContactForm extends React.Component {
           <span className="input-focus" aria-hidden="true" />
         </p>
         <p className="form-row">
-          <label className="form-label" htmlFor="passengers">
+          <label className="form-label" htmlFor="num-pax">
             Number of Travelers
           </label>
           <input
             type="text"
             name="passengers"
-            id="contact-user-email"
+            id="num-pax"
             className="form-input"
             placeholder="Enter number of travelers"
             required
@@ -92,14 +93,14 @@ export default class ContactForm extends React.Component {
           <span className="input-focus" aria-hidden="true" />
         </p>
         <p className="form-row">
-          <label className="form-label" htmlFor="contact-user-email">
+          <label className="form-label" htmlFor="contact-departure-date">
             Preffered Departure Date
           </label>
           <br></br>
           <input
             type="date"
             name="departure_date"
-            id="contact-user-email"
+            id="contact-departure-date"
             className="form-input"
             placeholder=""
             required
@@ -107,14 +108,14 @@ export default class ContactForm extends React.Component {
           <span className="input-focus" aria-hidden="true" />
         </p>
         <p className="form-row">
-          <label className="form-label" htmlFor="contact-user-email">
+          <label className="form-label" htmlFor="contact-arrival-date">
             Preffered Arrival Date{" "}
           </label>
           <br></br>
           <input
             type="date"
             name="arrival_date"
-            id="contact-user-email"
+            id="contact-arrival-date"
             className="form-input"
             placeholder=""
             required
@@ -122,10 +123,10 @@ export default class ContactForm extends React.Component {
           <span className="input-focus" aria-hidden="true" />
         </p>
         <p className="form-row">
-          <label className="form-label" htmlFor="contact-user-email">
+          <label className="form-label" htmlFor="contact-travel-dates">
             Are your Travel Dates Flexible?{" "}
           </label>
-          <select name="travel_dates" required>
+          <select name="travel_dates" id="contact-travel-dates" required>
             <option value="Yesy">Yes</option>
             <option value="No">No</option>
             <option value="No">No, my flights are already booked</option>
@@ -133,13 +134,13 @@ export default class ContactForm extends React.Component {
           <span className="input-focus" aria-hidden="true" />
         </p>
         <p className="form-row">
-          <label className="form-label" htmlFor="contact-user-email">
+          <label className="form-label" htmlFor="contact-user-budget">
             Your budget{" "}
           </label>
           <input
             type="text"
             name="budget"
-            id="contact-user-email"
+            id="contact-user-budget"
             className="form-input"
             placeholder="Enter your budget"
             required
