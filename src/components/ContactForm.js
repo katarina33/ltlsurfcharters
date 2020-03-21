@@ -64,13 +64,7 @@ export default class ContactForm extends React.Component {
           <label className="form-label" htmlFor="destination">
             Charter Destination
           </label>
-          <select
-            name="destination[]"
-            id="destination"
-            multiple
-            style={{ height: "100px" }}
-            required
-          >
+          <select name="destination" id="destination" required>
             <option value="Maldives">Maldives</option>
             <option value="Mentawai">Mentawai</option>
             <option value="other">Other(Mention in Message)</option>
@@ -88,7 +82,7 @@ export default class ContactForm extends React.Component {
             name="passengers"
             id="num-pax"
             className="form-input"
-            placeholder="Enter nr of travelers"
+            placeholder="Travelers"
             required
           />
           <span className="input-focus" aria-hidden="true" />
