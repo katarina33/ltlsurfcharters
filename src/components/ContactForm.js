@@ -88,7 +88,7 @@ export default class ContactForm extends React.Component {
             name="passengers"
             id="num-pax"
             className="form-input"
-            placeholder="Enter number of travelers"
+            placeholder="Enter nr of travelers"
             required
           />
           <span className="input-focus" aria-hidden="true" />
