@@ -6,7 +6,7 @@ thumb_img_path: /images/blue-horizon-ii-surf-charter-maldives-boat.jpg
 content_img_path: /images/blue-horizon-ii-surf-charter-maldives-boat.jpg
 template: project
 ---
-The Blue Horizon Surf Charter Boat Trips will take you out surfing in the Maldives Atolls. They have a fleet of different surf boats that sail out following a fixed schedule. They organize diving trips too. The Horizon II surf charter is a medium class boat with an experienced crew that will pick you up at the airport and transport you to the boat. 
+The Blue Horizon Surf Charter Boat Trips will take you out surfing in the Maldives Atolls. They have a fleet of different surf boats that sail out following a fixed schedule. They organize diving trips too. The Horizon II surf charter is a medium class boat with an experienced crew that will pick you up at the airport and transport you to the boat.
 
 ![Blue Horizon 2 Surf Charter Boat Maldives Decks](/images/blue-horizon-ii-surf-charter-maldives-deck.jpg "Blue Horizon 2 Surf Charter Boat Maldives Decks")
 
