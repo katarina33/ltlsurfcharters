@@ -83,7 +83,7 @@ export default class ContactForm extends React.Component {
             Number of Travelers
           </label>
           <input
-            type="text"
+            type="number"
             name="passengers"
             id="num-pax"
             className="form-input"
