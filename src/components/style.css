@@ -1,0 +1,10 @@
+@media screen and (max-width: 762px) {
+  .traveler {
+    width: 40% !important;
+    border: 1px solid black;
+  }
+  .drop {
+    width: 40% !important;
+    border: 1px solid black;
+  }
+}

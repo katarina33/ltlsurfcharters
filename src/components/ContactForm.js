@@ -1,4 +1,5 @@
 import React from "react";
+import "./style.css";
 
 export default class ContactForm extends React.Component {
   render() {
@@ -64,7 +65,7 @@ export default class ContactForm extends React.Component {
           <label className="form-label" htmlFor="destination">
             Charter Destination
           </label>
-          <select name="destination" id="destination" required>
+          <select name="destination" id="destination" class="drop" required>
             <option value="Maldives">Maldives</option>
             <option value="Mentawai">Mentawai</option>
             <option value="other">Other(Mention in Message)</option>
@@ -81,8 +82,8 @@ export default class ContactForm extends React.Component {
             type="number"
             name="passengers"
             id="num-pax"
-            className="form-input"
-            placeholder="Travelers"
+            className="form-input traveler"
+            placeholder=""
             required
           />
           <span className="input-focus" aria-hidden="true" />
@@ -104,7 +105,7 @@ export default class ContactForm extends React.Component {
         </p>
         <p className="form-row">
           <label className="form-label" htmlFor="contact-arrival-date">
-            Preffered Arrival Date{" "}
+            Preffered Arrival Date
           </label>
           <br></br>
           <input
@@ -121,7 +122,12 @@ export default class ContactForm extends React.Component {
           <label className="form-label" htmlFor="contact-travel-dates">
             Are your Travel Dates Flexible?{" "}
           </label>
-          <select name="travel_dates" id="contact-travel-dates" required>
+          <select
+            name="travel_dates"
+            id="contact-travel-dates"
+            class="drop"
+            required
+          >
             <option value="Yes">Yes</option>
             <option value="No">No</option>
             <option value="No">No, my flights are already booked</option>
