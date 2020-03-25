@@ -3,6 +3,10 @@ title: Surf Charter Checklist
 date: 2020-03-25T13:04:24.255Z
 thumb_img_path: /images/surf-charter-checklist-what-to-bring-on-a-surf-boat-trip.jpg
 content_img_path: /images/surf-charter-checklist-what-to-bring-on-a-surf-boat-trip.jpg
+excerpt: >-
+  What are the essentials you have to bring on a surf boat trip. Important
+  things to arrange up front and to take on board with you besides the usual
+  travel stuff...
 template: post
 ---
 ### What do I have to take on a surf charter trip?
