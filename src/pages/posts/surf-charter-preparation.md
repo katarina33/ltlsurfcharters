@@ -1,13 +1,14 @@
 ---
 title: Surf Charter Preparation
-subtitle: >-
+subtitle: ''
+date: 2020-03-25T15:23:49.313Z
+thumb_img_path: /images/best-surf-charter-preparation-for-a-hassl-free-trip.jpg
+content_img_path: /images/best-surf-charter-preparation-for-a-hassl-free-trip.jpg
+excerpt: >-
   What's important when you are planning to do a surf charter trip with your
   friends.? Make sure you choose a well-maintained boat and check facilities,
   extra's you want and more. Good preparation will bring you the best possible
   experience and long lasting memories....
-date: 2020-03-25T15:23:49.313Z
-thumb_img_path: /images/best-surf-charter-preparation-for-a-hassl-free-trip.jpg
-content_img_path: /images/best-surf-charter-preparation-for-a-hassl-free-trip.jpg
 template: post
 ---
 ### Make sure that everyone is on the same page regarding standards, when you book with friends.
