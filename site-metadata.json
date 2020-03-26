@@ -1,10 +1,10 @@
 {
   "title": "LTL Surfcharters",
-  "color_scheme": "light",
+  "color_scheme": "dark",
   "accent_color": "blue",
   "header": {
     "title": "LTL Surf Charters",
-    "logo_img": "/images/livethelifepureblack-small.png",
+    "logo_img": "/images/ltl-logo-small-black.png",
     "has_nav": true
   },
   "footer": {
