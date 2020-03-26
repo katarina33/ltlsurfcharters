@@ -39,13 +39,15 @@ export default class Portfolio extends React.Component {
                   >
                     {_.get(post, "frontmatter.thumb_img_path") && (
                       <div className="post-thumbnail">
-                        <img
-                          className="thumbnail"
-                          src={safePrefix(
-                            _.get(post, "frontmatter.thumb_img_path")
-                          )}
-                          alt={_.get(post, "frontmatter.title")}
-                        />
+                        <LazyLoad>
+                          <img
+                            className="thumbnail"
+                            src={safePrefix(
+                              _.get(post, "frontmatter.thumb_img_path")
+                            )}
+                            alt={_.get(post, "frontmatter.title")}
+                          />
+                        </LazyLoad>
                       </div>
                     )}
                     <header className="post-header">
