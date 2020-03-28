@@ -4,7 +4,6 @@ module.exports = {
     siteUrl: `https://www.ltlsurfcharters.com/`
   },
   plugins: [
-    `gatsby-plugin-advanced-sitemap`,
     `gatsby-plugin-react-helmet`,
     `gatsby-source-data`,
     `gatsby-plugin-preload-link-crossorigin`,
