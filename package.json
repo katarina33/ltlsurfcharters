@@ -13,10 +13,10 @@
     "@stackbit/gatsby-plugin-menus": "0.0.4",
     "classnames": "^2.2.6",
     "fs-extra": "^7.0.1",
-    "gatsby": "^2.20.8",
+    "gatsby": "2.3.30",
+    "gatsby-plugin-advanced-sitemap": "^1.5.2",
     "gatsby-plugin-preload-link-crossorigin": "^1.0.2",
     "gatsby-plugin-react-helmet": "^3.0.0",
-    "gatsby-plugin-sitemap": "^2.3.1",
     "gatsby-source-filesystem": "2.0.28",
     "gatsby-transformer-remark": "2.3.8",
     "js-yaml": "^3.12.2",
@@ -34,8 +34,5 @@
     "react-script-tag": "^1.1.2",
     "rehype-react": "^3.0.2",
     "sprintf-js": "^1.1.2"
-  },
-  "resolutions": {
-    "graphql": "^14.0.2"
   }
 }
