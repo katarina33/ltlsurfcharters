@@ -27,7 +27,7 @@ function generateSiteMap(pages) {
     urls: pagesToSitemap(pages)
   });
   console.log("Generating sitemap.xml");
-  fs.writeFileSync(`${__dirname}/src/sitemap.xml`, sitemap.toString());
+  fs.writeFileSync(`${__dirname}/public/sitemap.xml`, sitemap.toString());
 }
 
 export function postBuild(pages, callback) {
