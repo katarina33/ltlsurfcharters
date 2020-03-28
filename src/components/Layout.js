@@ -1,7 +1,6 @@
 import React from "react";
 import { Helmet } from "react-helmet";
 import _ from "lodash";
-
 import { safePrefix } from "../utils";
 import Header from "./Header";
 import Footer from "./Footer";
