@@ -1,8 +1,8 @@
 {
-  "name": "stackbit-exto-theme",
-  "description": "Stackbit Exto Theme",
+  "name": "LTL Surfcharters",
+  "description": "Free Assistance to find you the best Surfcharter",
   "version": "0.0.1",
-  "license": "MIT",
+  "license": "LTL",
   "scripts": {
     "develop": "gatsby develop",
     "start": "npm run develop",
