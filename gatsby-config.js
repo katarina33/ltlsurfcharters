@@ -1,10 +1,14 @@
 module.exports = {
   pathPrefix: "/",
-  siteMetadata: require("./site-metadata.json"),
+  siteMetadata: {
+    siteUrl: `https://www.ltlsurfcharters.com/`
+  },
   plugins: [
+    `gatsby-plugin-advanced-sitemap`,
     `gatsby-plugin-react-helmet`,
-    "gatsby-plugin-preload-link-crossorigin",
     `gatsby-source-data`,
+    `gatsby-plugin-preload-link-crossorigin`,
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
