@@ -3,8 +3,7 @@ module.exports = {
   siteMetadata: require("./site-metadata.json"),
   plugins: [
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-preload-link-crossorigin`,
-    `gatsby-plugin-sitemap`,
+    "gatsby-plugin-preload-link-crossorigin",
     `gatsby-source-data`,
     {
       resolve: `gatsby-source-filesystem`,
