@@ -1,7 +1,10 @@
 module.exports = {
   pathPrefix: "/",
-  siteMetadata: require("./site-metadata.json"),
+  siteMetadata: {
+    siteUrl: `https://www.ltlsurfcharters.com/`
+  },
   plugins: [
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-react-helmet`,
     `gatsby-source-data`,
     {

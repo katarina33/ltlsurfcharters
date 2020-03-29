@@ -2,7 +2,6 @@ import React from "react";
 import _ from "lodash";
 import LazyLoad from "react-lazyload";
 import { htmlToReact, getPages, Link, safePrefix } from "../utils";
-import LazyLoad from "react-lazyload";
 
 export default class PortfolioBlock extends React.Component {
   render() {
