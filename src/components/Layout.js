@@ -27,11 +27,7 @@ export default class Body extends React.Component {
             crossorigin="anonymous"
             rel="stylesheet"
           />
-          <link
-            rel="stylesheet"
-            href={safePrefix("assets/css/main.css")}
-            media="print"
-          />
+          <link rel="stylesheet" href={safePrefix("assets/css/main.css")} />
         </Helmet>
         <div
           id="page"
