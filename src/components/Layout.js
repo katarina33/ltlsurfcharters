@@ -21,12 +21,7 @@ export default class Body extends React.Component {
             content="width=device-width, initialScale=1.0"
           />
           <meta name="google" content="notranslate" />
-          <link
-            rel="preload"
-            as="style"
-            onload="this.rel = 'stylesheet'"
-            href={safePrefix("assets/css/main.css")}
-          />
+          <link rel="stylesheet" href={safePrefix("assets/css/main.css")} />
           <link
             href="https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i"
             crossorigin="anonymous"
