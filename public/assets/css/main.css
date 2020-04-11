@@ -1,3 +1,5 @@
+@import url(fontawesome.min.css);
+@import url(brands.min.css);
 /**
  * Reset
  * normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css
@@ -7,9 +9,11 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
+
 body {
   margin: 0;
 }
+
 article,
 aside,
 details,
@@ -22,12 +26,15 @@ nav,
 section {
   display: block;
 }
+
 summary {
   display: list-item;
 }
+
 figure {
   margin: 0;
 }
+
 pre,
 code,
 kbd,
@@ -35,23 +42,28 @@ samp {
   font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
   font-size: 1em;
 }
+
 audio,
 canvas,
 video {
   display: inline-block;
 }
+
 audio:not([controls]) {
   display: none;
   height: 0;
 }
+
 [hidden],
 template {
   display: none;
 }
+
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
+
 a:focus {
   outline: thin dotted;
 }
