@@ -24,6 +24,7 @@ export default class Body extends React.Component {
           <link
             rel="preload"
             as="style"
+            onload="this.rel = 'stylesheet'"
             href={safePrefix("assets/css/main.css")}
           />
           <link
