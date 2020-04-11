@@ -1,4 +1,6 @@
 import React from "react";
+import "../css/main.css";
+
 import { Helmet } from "react-helmet";
 import _ from "lodash";
 import { safePrefix } from "../utils";
@@ -16,7 +18,6 @@ export default class Body extends React.Component {
             {_.get(this.props, "pageContext.site.siteMetadata.title")}
           </title>
           <meta charSet="utf-8" />
-          <link rel="stylesheet" href={safePrefix("assets/css/main.css")} />
 
           <meta
             name="viewport"
@@ -26,6 +27,9 @@ export default class Body extends React.Component {
           <link
             href="https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i"
             crossorigin="anonymous"
+            rel="prefetch"
+            as="style"
+            onload="this.rel = 'stylesheet'"
           />
         </Helmet>
         <div
