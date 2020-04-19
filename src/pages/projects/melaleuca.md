@@ -16,7 +16,7 @@ Our western surf guide and Indonesian crew will make sure you get to the best wa
 
 The main salon of the Melaleuca is equipped with comfortable couches, a bar, a flat screen TV, DVD player and stereo. The separate dining area is a great place to enjoy meals with your friends. 6 individual cabins make for a more luxurious feel than the dorm style boats. The Melaleuca has two, 3 person cabins, three, 2 person cabins and a surf guide cabin. There are two bathrooms. 
 
-![Melaleuca Surf Charter Boat Mentawai Islands Cabins](/images/melaleuca-surf-boat-mentawai-cabins.jpg "Melaleuca Surf Charter Boat Mentawai Islands Cabins")
+![Melaleuca Surf Charter Boat Mentawai Islands Cabins](/images/melaleuca-cabin.jpg "Melaleuca Surf Charter Boat Mentawai Islands Cabins")
 
 The Melaleuca can reach a cruising speed of up to 12 knot. All necessary safety equipment is on board. Our 20 foot tender will take you to the waves or wherever you want to go.\
 \
@@ -56,4 +56,3 @@ The fishing station is also covered with a hard top and gives great access to so
 “This was my third trip to Mentawaii and was definitely the best to date. We had amazing waves and our guide made sure all the party had waves for their ability and generally un-crowded. The crew were fantastic and the boat was great. Nothing seemed like too much trouble and they were always smiling. Lastly, I would like to thank you. Throughout the whole process, LTL Surf Charters has always responded to my emails with answers promptly and made me feel comfortable I was booking with a reputable company. If I could offer one piece of feedback it would be for some more comfortable seating on deck but this did not affect our enjoyment it’s just something that would only enhance what is a great boat. I don’t believe the crew and guide could have been any better.Thanks again.”
 
 ![Melaleuca Surf Charter Boat Mentawai Islands surfer](/images/melaleuca-surf-charter-boat-mentawai-islands-surfing.jpg "Melaleuca Surf Charter Boat Mentawai Islands surfer")
-
