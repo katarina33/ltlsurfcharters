@@ -45,3 +45,5 @@ Group booking & Early booking Specials are available. Low Season Rates valid Jan
 – Extra alcohol (on request)
 
 ![Moon Palikir Surf Charter Trips Mentawai or Telos Islands Girls](/images/moon-palikir-surf-charter-trips-mentawai-telos-islands-surf.jpg "Moon Palikir Surf Charter Trips Mentawai or Telos Islands Girls")
+
+[More details on Moon Palikir](https://mentawaisurfcharters.com/moonpalikir/)
