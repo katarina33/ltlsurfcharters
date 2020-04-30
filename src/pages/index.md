@@ -32,15 +32,6 @@ sections:
     subtitle: ""
     title: What We Offer
     type: servicesblock
-  - view_all_text: View All
-    num_projects_displayed: 6
-    section_id: latest-surfcharters
-    view_all_url: portfolio/index.html
-    subtitle: "LTL Surf Charters offers a wide collection of the best surf boats. "
-    title: Surfcharters Collection
-    type: portfolioblock
-    layout_style: mosaic
-    component: PortfolioBlock
   - component: TestimonialsBlock
     section_id: testimonials
     subtitle: We go the extra mile...
@@ -69,6 +60,15 @@ sections:
       you within 24 hours and often much sooner.
     title: Contact Us
     type: contactblock
+  - view_all_text: View All
+    num_projects_displayed: 6
+    section_id: latest-surfcharters
+    view_all_url: portfolio/index.html
+    subtitle: "LTL Surf Charters offers a wide collection of the best surf boats. "
+    title: Surfcharters Collection
+    type: portfolioblock
+    layout_style: mosaic
+    component: PortfolioBlock
   - actions:
       - label: View Editorial
         url: blog/index.html
