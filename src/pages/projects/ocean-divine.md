@@ -48,3 +48,4 @@ The first class chef on board prepares international cuisine and  top local spec
 * Diving
 * Internet
 * Diving course (on request)
+* Green Tax (6$/p/d)
