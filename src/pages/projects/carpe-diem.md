@@ -31,3 +31,5 @@ The upper deck comprises the deluxe and suite cabins. It has a spacious C-shape 
 Finally, you can reach the 115 m2 sun deck through the staircase from the dining area. It’s partially shaded and has comfortable lounge chairs to relax and unwind.
 
 Above all, the Carpe Diem Boat Charter really has everything to give you an unforgettable Maldives experience.
+
+![Carpe Diem Boat Charter Maldives Surfing](/images/carpe-diem-surf-cruises.jpg "Carpe Diem Boat Charter Maldives Surfing")
