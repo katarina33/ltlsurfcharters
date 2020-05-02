@@ -28,12 +28,14 @@ And finally, the sun deck, where you can relax on one of the many sunbeds. Work 
 
 The Carpe Novo has 3 different cabin types. There are 4 junior suites, 2 single suites and 6 standard cabins. They all have individually controlled AC, a safety deposit box, TV and their own private bathroom.
 
-The junior suites have a king size bed and windows throughout the side of the cabin with a spacious shower. The single suites and standard cabins have queen size beds and all standard cabins have portholes.
-
 ![Carpe Novo Luxury Surf Charter Yacht Maldives Suite](/images/carpe-novo-luxury-surf-charter-yacht-maldives-suite.jpg "Carpe Novo Luxury Surf Charter Yacht Maldives Suite")
+
+The junior suites have a king size bed and windows throughout the side of the cabin with a spacious shower. The single suites and standard cabins have queen size beds and all standard cabins have portholes.
 
 #### Trips with the Carpe Novo are all-included.
 
+![Carpe Novo Luxury Surf Charter Yacht Maldives Bar](/images/carpe-novo-luxury-surf-charter-yacht-maldives-bar.jpg "Carpe Novo Luxury Surf Charter Yacht Maldives Bar")
+
 Enjoy a hassle-free trip with full board meals, snacks, drinking water, tea and coffee and guided surfing or diving. The crew will transfer you to the boat and will make sure you can enjoy an unforgettable Maldives experience onboard Carpe Novo.
 
-![Carpe Novo Luxury Surf Charter Yacht Maldives Bar](/images/carpe-novo-luxury-surf-charter-yacht-maldives-bar.jpg "Carpe Novo Luxury Surf Charter Yacht Maldives Bar")
+![Carpe Novo Luxury Surf Charter Yacht Maldives](/images/carpe-diem-surf-cruising.jpg "Carpe Novo Luxury Surf Charter Yacht Maldives")
