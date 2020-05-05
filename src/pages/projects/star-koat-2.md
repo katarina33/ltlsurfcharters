@@ -1,6 +1,6 @@
 ---
 title: Star Koat 2
-subtitle: Mentawai/Banyaks/Hinako  - Fixed schedule- Individual/Group
+subtitle: Mentawai/Banyaks/Nias/Hinako  - Fixed schedule- Individual/Group
 date: 2020-03-13T14:57:26.607Z
 thumb_img_path: /images/star-koat-2-surf-charter-mentawai-banyaks-hinako-islands.jpg
 content_img_path: /images/star-koat-2-surf-charter-mentawai-banyaks-hinako-islands.jpg
@@ -12,7 +12,9 @@ It offers surfer guests the ultimate level in comfort and style on board their s
 
 ![Star Koat 2 Surf Charter Mentawai Banyaks Hinako Islands Trip Captain](/images/star-koat-2-surf-charter-mentawai-banyaks-hinako-islands-trip-crew.jpg "Star Koat 2 Surf Charter Mentawai Banyaks Hinako Islands Trip  Captain")
 
-Star Koat 2 is now based in the archipelago of Banyaks, North Sumatra. A great option if you want to be off the beaten track with fewer crowds and plenty of world class surf spots. This archipelago offers incredible waves, many only accessible by boat. The experienced surf guide on board will make sure you’ll be at the right spot every day.
+Star Koat 2 is now based in the archipelago of Banyaks, which hosts some incredible waves, many only accessible by boat. Depending on the forecast available during your trip, the surfguide in charge may choose to sail south and you will have also the opportunity to explore some secret spots in Nias and the Hinako Islands' world class waves.\
+\
+A great option if you want to be off the beaten track with fewer crowds and plenty of world class surf spots. The experienced surf guide on board will make sure you’ll be at the right spot every day.
 
 ![Star Koat 2 Surf Charter Mentawai Banyaks Hinako Islands Trip Cabins](/images/star-koat-2-surf-charter-mentawai-banyaks-hinako-islands-trip-cabin.jpg "Star Koat 2 Surf Charter Mentawai Banyaks Hinako Islands Trip  Cabins")
 
