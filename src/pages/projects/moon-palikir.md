@@ -8,7 +8,11 @@ template: project
 ---
 ### The Moon Palikir surf charter takes you to surf the best waves in Mentawai or around the Telos Islands.
 
-We choose to concentrate on 1 area to maximize the surf time and limit the time wasted sailing. They will go the extra mile to make sure you have an unforgettable experience.
+Moon Palikir is a 100 foot vessel especially designed for surf trips with powerful twin engines and fully equipped to hunt down the best waves around the archipelago. \
+\
+One of the fastest boats operating on the islands, which makes it easy to dislocate between surf spots becoming ideal for extended charters all over Sumatra. Trips to Telo are also on the route, without extra costs to be charged from the guests. \
+\
+They will go the extra mile to make sure you have an unforgettable experience.
 
 ![Moon Palikir Surf Charter Trips Mentawai or Telos Islands waves](/images/moon-palikir-surf-charter-trips-mentawai-telos-islands-waves.jpg "Moon Palikir Surf Charter Trips Mentawai or Telos Islands")
 
