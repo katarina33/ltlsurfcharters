@@ -42,9 +42,7 @@ The living room was made to host everyone in great comfort and style with a larg
 
 ![Banyaks Islands Surfing](/images/banyaks-islands-surfing.jpg "Banyaks Islands Surfing")
 
-#### \
-\
-NOT INCLUDED:
+#### NOT INCLUDED:
 
 * Photo and Video services (on request)
 * Indonesia VISA (check your country requirements)
