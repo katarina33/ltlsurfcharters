@@ -39,6 +39,8 @@ Group booking & Early booking Specials are available. Low Season Rates valid Jan
 – Fishing and snorkelling gear\
 – Experienced surf guide on board
 
+![Paulo Mendes Mentawai Surfing](/images/paulo-mendes-mentawai-surfing.jpg "Paulo Mendes Mentawai Surfing")
+
 #### NOT INCLUDED:
 
 – Photo and Video services (on request)\
