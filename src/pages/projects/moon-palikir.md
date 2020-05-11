@@ -10,7 +10,7 @@ template: project
 
 Moon Palikir is a 100 foot vessel especially designed for surf trips with powerful twin engines and fully equipped to hunt down the best waves around the archipelago. 
 
-![Moon Palikir Surf Charter Boat Mentawai Islands](/images/moon-palikir-surf-charter-mentawai-islands.jpg "Moon Palikir Surf Charter Boat Mentawai Islands")
+![Moon Palikir Surf Charter Boat Mentawai Islands Surfing](/images/mentawai-surfing.jpg "Moon Palikir Surf Charter Boat Mentawai Islands Surfing")
 
 \
 One of the fastest boats operating on the islands, which makes it easy to dislocate between surf spots becoming ideal for extended charters all over Sumatra. Trips to Telo are also on the route, without extra costs to be charged from the guests. \
