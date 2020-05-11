@@ -12,7 +12,10 @@ It offers surfer guests the ultimate level in comfort and style on board their s
 
 ![Star Koat 2 Surf Charter Mentawai Banyaks Hinako Islands Trip Captain](/images/star-koat-2-surf-charter-mentawai-banyaks-hinako-islands-trip-crew.jpg "Star Koat 2 Surf Charter Mentawai Banyaks Hinako Islands Trip  Captain")
 
-Star Koat 2 is now based in the archipelago of Banyaks, which hosts some incredible waves, many only accessible by boat. Depending on the forecast available during your trip, the surfguide in charge may choose to sail south and you will have also the opportunity to explore some secret spots in Nias and the Hinako Islands' world class waves.\
+Star Koat 2 is now based in the archipelago of Banyaks, which hosts some incredible waves, many only accessible by boat. Depending on the forecast available during your trip, the surfguide in charge may choose to sail south and you will have also the opportunity to explore some secret spots in Nias and the Hinako Islands' world class waves.
+
+![Banyaks Surfing Star Koat II Surf Charter Boat](/images/banyaks-surfing-star-koat-ii.jpg "Banyaks Surfing Star Koat II Surf Charter Boat")
+
 \
 A great option if you want to be off the beaten track with fewer crowds and plenty of world class surf spots. The experienced surf guide on board will make sure you’ll be at the right spot every day.
 
@@ -37,7 +40,11 @@ The living room was made to host everyone in great comfort and style with a larg
 * fishing & snorkeing gear and SUP
 * Experienced surf guide on board
 
-#### NOT INCLUDED:
+![Banyaks Islands Surfing](/images/banyaks-islands-surfing.jpg "Banyaks Islands Surfing")
+
+#### \
+\
+NOT INCLUDED:
 
 * Photo and Video services (on request)
 * Indonesia VISA (check your country requirements)
