@@ -51,8 +51,8 @@ In North Male Atoll you can surf waves like Sultans, Chickens, Jails, Cockes, Ho
 – Return Airport transfer by Dhoni:\
 •1 Surfer: 200 US$\
 •2 Surfers: 100 US$/person\
-•3 Surfers: 75 US$/person\
-•4 Surfers: 65 US$/person
+•3 Surfers: 80 US$/person\
+•4 Surfers or more: 70 US$/person
 
 #### ON REQUEST:
 
